@@ -1,0 +1,62 @@
+{
+  "name": "surizerofont",
+  "displayName": "Big Comments Generator",
+  "description": "Generate big comments from input text",
+  "publisher": "surizerowan",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Other",
+    "Visualization",
+    "Formatters",
+    "Snippets"
+  ],
+  "activationEvents": [
+    "extension.convertText"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "menus": {
+      "editor/context": [
+        {
+          "command": "extension.convertText",
+          "group": "1_modification",
+          "when": "editorHasSelection"
+        }
+      ]
+    },
+    "commands": [
+      {
+        "command": "extension.convertText",
+        "title": "Large Comment",
+        "description": "Converts selected text to big font comment"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.78.0",
+    "@types/glob": "^8.1.0",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "16.x",
+    "eslint": "^8.39.0",
+    "glob": "^8.1.0",
+    "mocha": "^10.2.0",
+    "typescript": "^5.0.4",
+    "@vscode/test-electron": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingtonyrock/surizerofont"
+  },
+  "bugs": {
+    "url": "https://github.com/kingtonyrock/surizerofont/issues"
+  },
+  "license": "MIT"
+}
