@@ -1,13 +1,13 @@
-<div id="header" align="center"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/icon/logo.png" width="128"/></div>
+<div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/icon/picture.png" width="1080"/></div>
 
-<div id="header" align="center"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/python.gif"></div>
-
-<h3><div id="header" align="center">Large Comments Generator</div></h3>
- <div id="header" align="center">Generate large comments from input text</div>
+# Large Comments Generator
 
 ### Features
-
-> The extension will convert your text into a comment or plain text using a font of characters
+- [x] `Generate large comments from input text`
+- [x] `Automatic language detection`
+- [x] `Command Palette` 
+- [x] `Context menu` 
+- [x] <kbd>YOU</kbd> + <kbd>KEYBOARD</kbd> + <kbd>SHORTCUT</kbd>
 ### Requirements
 
 * Visual Studio Code
@@ -15,14 +15,10 @@
 * Hands
 
 
-<details>
+### Known Issues
 
-<summary>Known Issues</summary>
-
-### The problem with correct HTML output
-	
-Need to remove the extra `<!--` characters
-
+> The problem with correct HTML output	
+>> Need to remove the extra `<!--` characters
 ```
 <!-- ██████  ██████ ██████████████ ██████          ██████ ██████          
 <!-- ██  ██  ██  ██ ██          ██ ██  ██████████████  ██ ██  ██          
@@ -38,21 +34,16 @@ Need to remove the extra `<!--` characters
  -->
 ```
 
-</details>
-
-
-
-
-
-
 
 
 ### Examples
 
+<div id="header" align="center"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/python.gif"></div>
+
 PowerShell | Python | Ruby | Perl | Bash | R
 ------ | ------ | ------ | ------ | ------ | ------
 
-```
+```python
 # ██████████████ ██████████████ ██████          ██████ ██████  ██████  ██████████████ ████████████████   ██████████████ 
 # ██          ██ ██          ██ ██  ██████████  ██  ██ ██  ██  ██  ██  ██          ██ ██            ██   ██          ██ 
 # ██  ██████████ ██  ██████  ██ ██          ██  ██  ██ ██  ██  ██  ██  ██  ██████████ ██  ████████  ██   ██████  ██████ 
@@ -68,8 +59,6 @@ PowerShell | Python | Ruby | Perl | Bash | R
 ---
 
 <div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/javascript.gif"></div>
-
----
 
 JavaScript | TypeScript | Java | PHP | Swift | Go | Rust | Kotlin | Scala
 ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------
@@ -93,8 +82,6 @@ JavaScript | TypeScript | Java | PHP | Swift | Go | Rust | Kotlin | Scala
 
 <div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/plain%20text.gif"></div>
 
----
-
 Lua | SQL
 ------ | ------ 
 	
@@ -117,5 +104,5 @@ Lua | SQL
 
 ### Release Notes
 
-#### 1.0.0
-Initial release of **Big Comments Generator** - enerate big comments from input text
+* 1.0.0
+> Initial release of **Big Comments Generator** - enerate big comments from input text
