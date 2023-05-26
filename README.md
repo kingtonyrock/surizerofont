@@ -1,14 +1,14 @@
-<div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/icon/picture.png" width="1080"/></div>
+<div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/icon/icon.png"/></div>
 
 # Large Comments Generator
 
 
 ### Features
-- [x] `Generate large comments from input text`
-- [x] `Automatic language detection`
-- [x] `Command Palette` 
-- [x] `Context menu` 
-- [x] `YOU` + `KEYBOARD` + `SHORTCUT`
+* `Generate large comments from input text`
+* `Automatic language detection`
+* `Command Palette`
+* `Context menu`
+* `YOU` + `KEYBOARD` + `SHORTCUT`
 
 ### Requirements
 
@@ -18,10 +18,13 @@
 
 ### Examples
 
-<img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/javascript.gif"></div>
-<img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/plain%20text.gif"></div>
+#### <p align="center">> Large Comment
 <img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/python.gif"></div>
-  
+#### <p align="center">Context Menu/Large Comment
+<img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/javascript.gif"></div>
+#### <p align="center">Bind + You + Shortcut
+<img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/plain%20text.gif"></div>
+
 <details>
   <summary>Overview</summary>
   
@@ -65,7 +68,7 @@
 </details>
 
 
-### Known Issues
+### Supported languages
 
 - [x] JavaScript
 - [x] TypeScript
@@ -85,7 +88,6 @@
 - [x] Lua
 - [x] SQL
 - [ ] More Language
-
 
 ---
 
@@ -114,4 +116,4 @@
 ### Release Notes
 
 * 1.0.0
-> Initial release of **Big Comments Generator** - enerate big comments from input text
+> Initial release of **Large Comments Generator** - generate large comments from input text
