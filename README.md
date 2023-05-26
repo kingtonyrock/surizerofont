@@ -1,4 +1,4 @@
-[logo](https://github.com/kingtonyrock/surizerofont/blob/main/icon/pic.png)
+<div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/icon/pic.png" width="600"/></div>
 
 
 #### Big Comments Generator - Generate big comments from input text
