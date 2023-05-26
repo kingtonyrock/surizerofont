@@ -89,8 +89,6 @@
 - [x] SQL
 - [ ] More Language
 
----
-
 ### Known Issues
 
 <details>
@@ -116,4 +114,4 @@
 ### Release Notes
 
 * 1.0.0
-> Initial release of **Large Comments Generator** - generate large comments from input text
+> Initial release of **Large Comments Generator** - Generate large comments from input text
