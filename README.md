@@ -43,7 +43,11 @@ Need to remove the extra `<!--` characters
 <details>
 	
 <summary>Examples</summary>	
-
+	
+---
+	
+<div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/python.gif"></div>	
+	
 `Python` | `Ruby` | `Perl` | `R` | `Bash` | `PowerShell`
 
 ```
@@ -60,7 +64,9 @@ Need to remove the extra `<!--` characters
 # ██████████████ ██████████████ ██████          ██████     ██████      ██████████████ ██████  ██████████     ██████     
 ```
 ---
-
+	
+<div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/javascript.gif"></div>
+	
 `JavaScript` | `TypeScript` | `Java` | `PHP` | `Swift` | `Go` | `Rust` | `Kotlin` | `Scala`
 
 ```
@@ -77,6 +83,8 @@ Need to remove the extra `<!--` characters
 //       ██████       ██████████████ ██████████████ ██████  ██████████  
 ```
 
+<div id="header" align="left"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/plain%20text.gif"></div>
+	
 ---
 
 `Lua` | `SQL`
