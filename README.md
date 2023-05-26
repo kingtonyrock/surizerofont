@@ -5,7 +5,7 @@
   <a href="https://github.com/kingtonyrock/surizerofont/releases" title="Latest release">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/package-json/v/kingtonyrock/surizerofont?style=flat-square&color=1f1f1f&labelColor=036fc2">
-      <img alt="Latest release" src="https://img.shields.io/github/package-json/v/expo/vscode-expo?style=flat-square&color=0366D6&labelColor=D1D5DA" />
+      <img alt="Latest release" src="https://img.shields.io/github/package-json/v/kingtonyrock/surizerofont?style=flat-square&color=0366D6&labelColor=D1D5DA" />
     </picture>
   <a href="https://marketplace.visualstudio.com/items?itemName=surizerowan.surizerofont" title="Install from VS Code Marketplace">
     <picture>
@@ -127,3 +127,6 @@
 
 * 1.0.0
 > Initial release of **Large Comments Generator** - Generate large comments from input text
+
+* 1.0.1
+> Minor edits
