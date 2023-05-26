@@ -2,6 +2,7 @@
 
 # Large Comments Generator
 
+
 ### Features
 - [x] `Generate large comments from input text`
 - [x] `Automatic language detection`
@@ -15,10 +16,10 @@
 * Hands
 
 
+
 ### Known Issues
 
-> The problem with correct HTML output	
->> Need to remove the extra `<!--` characters
+> The problem with correct HTML output need to remove the extra <kbd><!--</kbd> characters
 ```
 <!-- ██████  ██████ ██████████████ ██████          ██████ ██████          
 <!-- ██  ██  ██  ██ ██          ██ ██  ██████████████  ██ ██  ██          
@@ -34,14 +35,12 @@
  -->
 ```
 
-
-
 ### Examples
 
 <div id="header" align="center"><img src="https://github.com/kingtonyrock/surizerofont/blob/main/example/python.gif"></div>
 
-PowerShell | Python | Ruby | Perl | Bash | R
------- | ------ | ------ | ------ | ------ | ------
+PowerShell | <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/50/FFFFFF/python.png" alt="python"/> | Ruby | Perl | Bash | R
+
 
 ```python
 # ██████████████ ██████████████ ██████          ██████ ██████  ██████  ██████████████ ████████████████   ██████████████ 
