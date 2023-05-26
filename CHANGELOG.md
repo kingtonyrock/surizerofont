@@ -1,4 +1,4 @@
-# Change Log
+## Change Log
 
-#### 1.0
-Initial release of **Big Comments Generator** - enerate big comments from input text
+### 1.0.0
+> Initial release of **Large Comments Generator** - Generate large comments from input text
